@@ -1,2 +1,4 @@
-# country_mask
-Python-Iris country mask script
+# Mascara
+Python-Iris country mask script utilizando o pyprecis environment
+
+# 
